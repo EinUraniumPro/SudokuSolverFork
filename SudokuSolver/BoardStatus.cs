@@ -1,7 +1,9 @@
-﻿namespace SudokuSolver {
-  public enum BoardStatus {
-    Solved,
-    Unsolvable,
-    Unknown
-  }
+﻿namespace SudokuSolver
+{
+    public enum BoardStatus
+    {
+        Solved,
+        Unsolvable,
+        Unknown
+    }
 }

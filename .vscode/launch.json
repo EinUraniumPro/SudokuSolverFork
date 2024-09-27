@@ -9,7 +9,7 @@
       "type": "coreclr",
       "request": "launch",
       "preLaunchTask": "build",
-      "program": "${workspaceFolder}/SudokuSolver/bin/Debug/net5.0/SudokuSolver.dll",
+      "program": "${workspaceFolder}/SudokuSolver/bin/Debug/net8.0/SudokuSolver.dll",
       "args": [],
       "cwd": "${workspaceFolder}/SudokuSolver",
       "console": "internalConsole",
